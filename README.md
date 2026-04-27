@@ -1,4 +1,4 @@
-# CyberGuard — Agentic SOC Platform by Antigravati
+# CyberGuard — Agentic SOC Platform
 ### 100% Free Stack · Zero Cost · Unicorn Potential
 
 ---
